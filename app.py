@@ -62,8 +62,8 @@ def web_portfolio():
               unsafe_allow_html=True)
 # Add Social Icons
     social_icons_data = {
-    "Kaggle": ["https://www.kaggle.com/saidhem", "https://www.kaggle.com/static/images/site-logo.svg"],
-    "LinkedIn": ["https://www.linkedin.com/in/said-h-1956b0161/", "https://cdn-icons-png.flaticon.com/128/3536/3536505.png"],
+    "Kaggle": [""],
+    "LinkedIn": ["https://www.linkedin.com/in/krasnovyd-oleksandr-b77343309?trk=contact-info"],
     "GitHub": ["https://github.com/shirdarec", "https://cdn-icons-png.flaticon.com/128/5968/5968866.png"],
     }
 
@@ -85,12 +85,10 @@ def web_portfolio():
     st.subheader("About Me")
 
     st.markdown("""
-    - 🧑‍💻🚀 I am a **Data Scientist and Gen AI developer** at [Digna AS](https://www.Digna.no/), 
-    where I am currently working on an AI platform to help simplify public information to newcomers to Norway.
-    - ❤️ I am passionate about *Machine Learning/Deep Learning, Artifical intelligence, Data Science, Software Engineering, 
-   Data Analytics, Automation*, and more!
-    - 🏂 In my free time, I enjoy practising sports such as weight lifting and chalistenics.
-    - 🪧 You can reach me at said@diga.no.
+    - 🧑‍💻🚀 
+    - ❤️ 
+    - 🏂 In my free time I like to play sports such as rowing and gym
+    - 🪧 You can reach me at sashalks2005@gmail.com
     - 🏠 Based in Norway.
     """)
 
